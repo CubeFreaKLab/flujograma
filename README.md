@@ -1,6 +1,18 @@
+<div align="center">
+  <img src="nombre.png" width="500">
+</div>
+
 # Flujograma
 
+<div align="center">
+
+![Pillow](https://img.shields.io/badge/dependency-Pillow%20%E2%89%A5%209.0.0-orange)
+![Lark](https://img.shields.io/badge/dependency-Lark%20%E2%89%A5%201.1.0-green)
+
+</div>
+
 Una librería Python para generar diagramas automáticamente a partir de texto en lenguaje controlado.
+
 
 ## Características
 
