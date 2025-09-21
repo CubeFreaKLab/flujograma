@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "flujograma"
-version = "1.0.1"
+version = "1.0.2"
 description = "Una librería Python para crear diagramas de arquitectura y flujo con iconos profesionales"
 readme = "README.md"
 license = {text = "MIT"}

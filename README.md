@@ -16,7 +16,7 @@ Una librería Python para generar diagramas automáticamente a partir de texto e
 -  **Ligero**: Sin dependencias pesadas como GraphViz o herramientas externas
 -  **Multiidioma**: Soporte para español, inglés y fácil extensión a otros idiomas
 -  **Lenguaje controlado**: Basado en gramáticas simples, no IA completa
--  **Diagramas de arquitectura**: Compatible con diagrams.mingrammer.com para crear diagramas de infraestructura cloud (AWS) con sintaxis sencilla
+-  **Diagramas de arquitectura**: Soporte experimental para diagramas de infraestructura
 
 ## Instalación
 
@@ -45,7 +45,7 @@ generate_diagram(
 )
 ```
 
-### Diagramas de arquitectura web (Web Services)
+### Diagramas de arquitectura web (Web Services) - EXPERIMENTAL
 ```python
 from src.flujograma.diagrams_api import Diagram, ELB, EC2, RDS, S3
 
