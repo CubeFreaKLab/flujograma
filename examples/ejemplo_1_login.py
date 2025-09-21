@@ -1,15 +1,4 @@
-import os
-import sys
-
-# Agregar src al path para importar flujograma
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'src'))
-
 from flujograma import generate_diagram
-
-"""
-Ejemplo 1: Sistema de Login
-Demuestra un proceso de autenticación básico con validación
-"""
 
 def main():
     print("Ejemplo 1: Sistema de Login")

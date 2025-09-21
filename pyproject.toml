@@ -4,15 +4,15 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "flujograma"
-version = "1.0.0"
+version = "1.0.1"
 description = "Una librería Python para crear diagramas de arquitectura y flujo con iconos profesionales"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "Tu Nombre", email = "tu.email@ejemplo.com"}
+    {name = "CubeFreaKLab", email = "cubefreaklab@gmail.com"}
 ]
 maintainers = [
-    {name = "Tu Nombre", email = "tu.email@ejemplo.com"}
+    {name = "CubeFreaKLab", email = "cubefreaklab@gmail.com"}
 ]
 keywords = ["diagrams", "flowchart", "architecture", "aws", "gcp", "kubernetes", "visualization"]
 classifiers = [
@@ -50,10 +50,10 @@ build = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/tuusuario/flujograma"
-Repository = "https://github.com/tuusuario/flujograma.git"
-Documentation = "https://github.com/tuusuario/flujograma#readme"
-"Bug Tracker" = "https://github.com/tuusuario/flujograma/issues"
+Homepage = "https://github.com/CubeFreaKLab/flujograma"
+Repository = "https://github.com/CubeFreaKLab/flujograma.git"
+Documentation = "https://github.com/CubeFreaKLab/flujograma#readme"
+"Bug Tracker" = "https://github.com/CubeFreaKLab/flujograma/issues"
 
 [tool.setuptools]
 package-dir = {"" = "src"}

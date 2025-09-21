@@ -1,8 +1,3 @@
-import os
-import sys
-
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'src'))
-
 from flujograma.diagrams_api import Diagram, ELB, EC2, RDS, S3
 
 with Diagram("Web Services", show=False, filename="web_services_final.png"):
