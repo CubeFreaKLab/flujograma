@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="nombre.png" width="500">
-</div>
-
 # Flujograma
 
 <div align="center">
